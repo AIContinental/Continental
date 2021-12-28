@@ -62,6 +62,7 @@ Continental NFT Protocol, includes land and collectibles, and therefore can be r
 The smart contract ensures that the borrower cannot resell or destroy the object, and guarantees that the object is returned the owner at the end of the lease.
 
 https://metacontinental.com
+
 https://metacontinental.io
 
 Support@metacontinental.com
